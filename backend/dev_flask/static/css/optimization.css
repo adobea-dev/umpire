@@ -1,0 +1,14 @@
+.read-only{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+table {
+    /* width: 50px; */
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
